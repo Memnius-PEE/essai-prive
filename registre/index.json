@@ -1,0 +1,48 @@
+{
+  "schema": "memnius-index/1",
+  "projet": "essai-prive",
+  "titre": "Essai privé",
+  "comptes": {
+    "decision": 1,
+    "code": 0,
+    "donnees": 0,
+    "sources": 0,
+    "documents": 1
+  },
+  "cartes": [
+    {
+      "type": "decision",
+      "id": "decisions/0001",
+      "fichier": "registre/decisions/0001-adopter-le-socle.md",
+      "titre": "0001 — Adopter le socle commun Memnius v2",
+      "resume": "Le projet suit les règles et les gardes A1–A7 du socle v2, ainsi que les options déclarées dans `memnius.yaml` (`socle.options`).",
+      "ou": [
+        "registre/decisions/0001-adopter-le-socle.md"
+      ],
+      "auteurs": [
+        "Pwouette"
+      ],
+      "date": "2026-10-12",
+      "origine": [
+        "humain"
+      ]
+    },
+    {
+      "type": "documents",
+      "id": "documents/note-secrete",
+      "fichier": "registre/documents/note-secrete.md",
+      "titre": "Note secrète MARQUEUR-ESSAI-PRIVE-7731",
+      "resume": "Carte d'essai qui ne doit jamais apparaître dans les fichiers publics.",
+      "ou": [
+        "notes/secret.md"
+      ],
+      "auteurs": [
+        "Pwouette"
+      ],
+      "date": "2026-10-12",
+      "liens": [],
+      "mots_cles": [],
+      "statut": "a-relire"
+    }
+  ]
+}
